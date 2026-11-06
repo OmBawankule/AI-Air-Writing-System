@@ -1,0 +1,5 @@
+# AI Air Writing System Dependencies
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
+mediapipe==0.10.21
+pytesseract==0.3.13
